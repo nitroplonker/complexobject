@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+.itemHolder{
+  border:1px solid black;
+  column-gap:10px;
+  display:inline-flex;
+}
+
+.itemHolder > div{
+  padding:10px;
+}
